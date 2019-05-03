@@ -8,12 +8,14 @@ Questo che avete davanti **non è un nuovo libro di tecnologia** per la scuola m
 
 ## Suggerimenti
 Ciascuno prenda il capitolo che preferisce e scriva direttamente in questo [pad condiviso](https://mensuel.framapad.org/p/tecnologia) e sostituisca l'etichetta **Chi ci vuole provare** con il proprio nome. Riportiamo quindi, in maniera pratica:
+
 - come presento l'argomento ai ragazzi
 - quali metodologie adotto
 - un riferimento al materiale da utilizzare
 - etc...
 
 Volendo, chiunque può modificare anche direttamente questo sito cliccando l'apposito link presente in calce. Le pagine di cui è composto e l'indice per la navigazione si creano automaticamente partendo da **semplici file di testo**, con estensione .md anzichè .txt, ospitati sul cloud storage del mio account [Github](https://github.com/). Ad ogni capitolo corrisponde una cartella al cui interno si potrebbero inserire più pagine, una per ogni attività descritta.
+Se sei collaboratore puoi creare file e cartelle proprio come avviene con Drive di Google, basta chiedermelo... prima però devi aver creato un account su github, è gratuito.
 
 [Clicca qui](https://github.com/omartek/tecnologiadiclasse/tree/master/content/docs) per vedere la struttura delle cartelle del sito.
 
