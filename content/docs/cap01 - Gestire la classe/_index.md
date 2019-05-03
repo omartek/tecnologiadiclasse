@@ -1,0 +1,1 @@
+# Gestire la classe nell'ora di tecnologia
