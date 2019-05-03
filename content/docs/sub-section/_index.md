@@ -1,42 +1,136 @@
-# Fida abluere audiat moram ferarum terram virgae
+## Overview
 
-## Facere fluidove ab naides ut sic cornu
+This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can't cover every edge case, so if you need more information about any of these elements, refer to our reference guides for [basic syntax](/basic-syntax) and [extended syntax](/extended-syntax).
 
-Lorem markdownum Lucifer est, ire tangit inposito terram. Ore et pes lavet nuper
-longam, longa sub, erat nec Lemnicolae, in.
-[Et](http://sumparvi.org/ossaquerecludit) nec tantaque sollicitive cognovi et ut
-videbar verso **passis**, Epimethida tutos. Dedecus Desine morae.
+## Basic Syntax
 
-Fervens esse et tenet cinisque per: et vir equus formaque superorum tollit,
-vires meae magnum; Latona. Fundamine potitur genialis: imagine gaudet et herba
-rura vates horrendum, laborum quis: potero aureus habitantque illos nox? E
-factorum breve ad in verum Euboea templis volitat pompa aureus pallebant
-videres, replet inque color? Capit et bipennem Finis sonuere magno nec pennis
-exhortatur tenebat, ait.
+These are the elements outlined in John Gruber's original design document. All Markdown applications support these elements.
 
-## Gurgite caede Hippocoon auxilio furit
+<table class="table table-bordered">
+  <thead class="thead-light">
+    <tr>
+      <th>Element</th>
+      <th>Markdown Syntax</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="/basic-syntax/#headings">Heading</a></td>
+      <td><code># H1<br>
+          ## H2<br>
+          ### H3</code></td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#bold">Bold</a></td>
+      <td><code>**bold text**</code></td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#italic">Italic</a></td>
+      <td><code>*italicized text*</code></td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#blockquotes-1">Blockquote</a></td>
+      <td><code>> blockquote</code></td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#ordered-lists">Ordered List</a></td>
+      <td><code>
+        1. First item<br>
+        2. Second item<br>
+        3. Third item<br>
+      </code></td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#unordered-lists">Unordered List</a></td>
+      <td>
+        <code>
+          - First item<br>
+          - Second item<br>
+          - Third item<br>
+        </code>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#code">Code</a></td>
+      <td><code>`code`</code></td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#horizontal-rules">Horizontal Rule</a></td>
+      <td><code>---</code></td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#links">Link</a></td>
+      <td><code>[title](https://www.example.com)</code></td>
+    </tr>
+    <tr>
+      <td><a href="/basic-syntax/#images-1">Image</a></td>
+      <td><code>![alt text](image.jpg)</code></td>
+    </tr>
+  </tbody>
+</table>
 
-Freta amatos. [Saxum](http://horas-pericula.net/inprudens.php) vocanti Iovem sui
-quicquam viro linguae minus, ara nec tu ipsa ars miserae, quam tetigit vacet
-inque. Fuistis Deucalion, populi invidiae *indicat texere est* Helicon simul.
+## Extended Syntax
 
-1. Hominum quantaque membra duos
-2. Domum tela
-3. Totus penna
-4. Charaxi cogitis Hoc caelo est removit Anubis
-5. Simulacra Delo posset insula
-6. Infelix et nox fixa adhuc
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
-## Trabes per coercet mittere toro
+<table class="table table-bordered">
+  <thead class="thead-light">
+    <tr>
+      <th>Element</th>
+      <th>Markdown Syntax</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="/extended-syntax/#tables">Table</a></td>
+      <td><code>
+          | Syntax      | Description |<br>
+          | ----------- | ----------- |<br>
+          | Header      | Title       |<br>
+          | Paragraph   | Text        |
+      </code></td>
+    </tr>
+    <tr>
+      <td><a href="/extended-syntax/#fenced-code-blocks">Fenced Code Block</a></td>
+      <td><code>```<br>
+      {<br>
+      &nbsp;&nbsp;"firstName": "John",<br>
+      &nbsp;&nbsp;"lastName": "Smith",<br>
+      &nbsp;&nbsp;"age": 25<br>
+      }<br>
+      ```
+      </code></td>
+    </tr>
+    <tr>
+      <td><a href="/extended-syntax/#footnotes">Footnote</a></td>
+      <td><code>
+        Here's a sentence with a footnote. [^1]<br><br>
 
-Cerae movit: patria quid, Alpheias **magicaeque** puer! Cum venit quidem, sors
-erigor coniunctis sparsa carpe periuria in vultu temperat gradibus. Tutus
-fecimus, caput; flamma mentis retia fuit Pallas.
-
-> Arbore et agitasse partes patrem dumque ab, nec infans, sollemnia summis
-> resque, de malles ille? Ultor fugaverat nemus, quaerenti nolle coniugis
-> manibus contraque pace. Fuit verba ipse ignavi vulnus. Nam illud *inferius*
-> iuvenale iuncta tandem.
-
-Deus hostia Peneidas ad passu in venerat postes
-[nymphae](http://ullo-herbae.org/). Sagittis tabo sibi marmoreum.
+        [^1]: This is the footnote.
+      </code></td>
+    </tr>
+    <tr>
+      <td><a href="/extended-syntax/#heading-ids">Heading ID</a></td>
+      <td><code>### My Great Heading {#custom-id}</code></td>
+    </tr>
+    <tr>
+      <td><a href="/extended-syntax/#definition-lists">Definition List</a></td>
+      <td><code>
+        term<br>
+        : definition
+      </code></td>
+    </tr>
+    <tr>
+      <td><a href="/extended-syntax/#strikethrough">Strikethrough</a></td>
+      <td><code>~~The world is flat.~~</code></td>
+    </tr>
+    <tr>
+      <td><a href="/extended-syntax/#task-lists">Task List</a></td>
+      <td><code>
+        - [x] Write the press release<br>
+        - [ ] Update the website<br>
+        - [ ] Contact the media
+      </code></td>
+    </tr>
+  </tbody>
+</table>
