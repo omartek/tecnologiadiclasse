@@ -11,8 +11,16 @@ Ciascuno prenda il capitolo che preferisca e sostituisca l'etichetta **Chi ci vu
 
 # Guida rapida al Markdown
 
+Questo **bigino** fornisce una rapida panoramica di tutti gli elementi di sintassi di Markdown. Non può coprire ogni caso possibile, quindi se hai bisogno di maggiori informazioni, consulta le guide di riferimento per [sintassi di base] (https://www.markdownguide.org/basic-syntax) e [sintassi avanzata] (/ sintassi estesa).
 
-Questo *bigino* fornisce una rapida panoramica di tutti gli elementi di sintassi di Markdown. Non può coprire ogni caso possibile, quindi se hai bisogno di maggiori informazioni, consulta le guide di riferimento per [sintassi di base] (https://www.markdownguide.org/basic-syntax) e [sintassi avanzata] (/ sintassi estesa).
+<table class="table table-bordered">
+  <thead class="thead-light">
+    <tr>
+      <th>Elemento</th>
+      <th>Sintassi Markdown</th>
+    </tr>
+  </thead>
+</table>
 
 ## Sintassi di base
 
