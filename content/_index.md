@@ -21,7 +21,7 @@ verrà visualizzata così:
 
 Questa frase verrà visualizzata **in parte in grassetto** ed in parte in *corsivo*.
 
-In questo modo è più semplice sia scrivere che leggere testi all'interno delle pagine web, che diversamente sarebbere frammentati inmezzo ad una gran quantità <...> </...> tipici del codice HTML. In seguito, la pagina scritta in Markdown, viene tradotto da un software in codice HTML.
+In questo modo è più semplice sia scrivere che leggere testi all'interno delle pagine web, che diversamente sarebbero frammentati in mezzo ad una gran quantità <...> </...> tipici del codice HTML. In seguito, la pagina scritta in Markdown, viene tradotta automaticamente in codice HTML da un software intermediario.
 
 Questo **bigino** fornisce una rapida panoramica di tutti gli elementi di sintassi di Markdown. Non può coprire ogni caso possibile, quindi se hai bisogno di maggiori informazioni, consulta le guide di riferimento per [sintassi di base] (https://www.markdownguide.org/basic-syntax) e [sintassi avanzata] (/ sintassi estesa).
 
