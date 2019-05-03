@@ -15,7 +15,7 @@ Il **Markdown** è un linguaggio mark-up concettualmente simile all'HTML. Attrav
 
 Una frase scritta in questo modo:
 
-  Questa frase verrà visualizzata **in parte in grassetto** ed in parte in *corsivo*
+    Questa frase verrà visualizzata **in parte in grassetto** ed in parte in *corsivo*
 
 verrà visualizzata così:
 
