@@ -11,16 +11,19 @@ Ciascuno prenda il capitolo che preferisca e sostituisca l'etichetta **Chi ci vu
 
 # Guida rapida al Markdown
 
+Il Markdown è un linguaggio mark-up concettualmente simile all'HTML. Attraverso l'utilizzo di simboli marcatori, quali # (hashtag) o * (asterisco), si realizzano titoli o paralo in grassetto o corsivo.
+
+Una frase scritta in questo modo:
+
+<p>Questa frase verrà visualizzata **in parte in grassetto** ed in parte in *corsivo*</p>
+
+verrà visualizzata così:
+
+Questa frase verrà visualizzata **in parte in grassetto** ed in parte in *corsivo*.
+
 Questo **bigino** fornisce una rapida panoramica di tutti gli elementi di sintassi di Markdown. Non può coprire ogni caso possibile, quindi se hai bisogno di maggiori informazioni, consulta le guide di riferimento per [sintassi di base] (https://www.markdownguide.org/basic-syntax) e [sintassi avanzata] (/ sintassi estesa).
 
-<table class="table table-bordered">
-  <thead class="thead-light">
-    <tr>
-      <th>Elemento</th>
-      <th>Sintassi Markdown</th>
-    </tr>
-  </thead>
-</table>
+<p> Paragrafo # </p>
 
 ## Sintassi di base
 
