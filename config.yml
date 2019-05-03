@@ -2,7 +2,7 @@
 
 baseURL: https://tecnologiadiclasse.netlify.com/
 title: Hugo Book
-theme: hugo-book
+theme: book
 disableKinds: ["taxonomy", "taxonomyTerm"]
 # themesDir: ../..
 
@@ -21,7 +21,7 @@ params:
 
   # (Optional, default none) Set leaf bundle to render as side menu
   # When not specified file structure and weights will be used
-  BookMenuBundle: /menu
+  #BookMenuBundle: /menu
 
   # (Optional, default docs) Specify section of content to render as menu
   # You can also set value to "*" to render all sections to menu
