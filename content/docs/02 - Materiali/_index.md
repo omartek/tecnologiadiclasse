@@ -1,7 +1,7 @@
 # Materiali
 
 ## Teoria
-- quaderno di tecnologia (portalistino da 60-100 buste trasparenti A4)
+- quaderno di tecnologia (portalistini da 60-100 buste trasparenti A4)
 - fogli A4 bianchi
 
 ## Disegno
