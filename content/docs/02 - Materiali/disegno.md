@@ -1,1 +1,0 @@
-# Materiale da disegno
