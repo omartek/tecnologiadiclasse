@@ -1,4 +1,4 @@
-# REALIZZARE UNA COPERTINA
+# REALIZZARE LA COPERTINA DEL QUADERNO DI TECNOLOGIA
 
 ## Sintesi dell'attività
 - **Discussione** cosa è la tecnologia per gli studenti
