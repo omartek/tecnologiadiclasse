@@ -18,6 +18,7 @@ Volendo, chiunque può modificare anche direttamente questo sito cliccando l'app
 Se sei collaboratore puoi creare file e cartelle proprio come avviene con Drive di Google, basta chiedermelo... prima però devi aver creato un account su github, è gratuito.
 
 **STRUTTURA TIPO**
+
 - Argomento trattato:
 - Attività manuale:
 - Attività a PC:
