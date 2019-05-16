@@ -17,6 +17,12 @@ Ciascuno prenda il capitolo che preferisce e scriva direttamente in questo [pad 
 Volendo, chiunque può modificare anche direttamente questo sito cliccando l'apposito link presente in calce. Le pagine di cui è composto e l'indice per la navigazione si creano automaticamente partendo da **semplici file di testo**, con estensione .md anzichè .txt, ospitati sul cloud storage del mio account [Github](https://github.com/). Ad ogni capitolo corrisponde una cartella al cui interno si potrebbero inserire più pagine, una per ogni attività descritta.
 Se sei collaboratore puoi creare file e cartelle proprio come avviene con Drive di Google, basta chiedermelo... prima però devi aver creato un account su github, è gratuito.
 
+**STRUTTURA TIPO**
+- Argomento trattato:
+- Attività manuale:
+- Attività a PC:
+- Prodotto finale:
+
 [Clicca qui](https://github.com/omartek/tecnologiadiclasse/tree/master/content/docs) per vedere la struttura delle cartelle del sito.
 
 # Guida rapida al Markdown
