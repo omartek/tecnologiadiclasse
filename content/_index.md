@@ -19,10 +19,10 @@ Se sei collaboratore puoi creare file e cartelle proprio come avviene con Drive 
 
 **STRUTTURA TIPO**
 
-- Argomento trattato:
-- Attività manuale:
-- Attività a PC:
-- Prodotto finale:
+- Discussione
+- Attività manuale
+- Attività a PC
+- Prodotto finale
 
 [Clicca qui](https://github.com/omartek/tecnologiadiclasse/tree/master/content/docs) per vedere la struttura delle cartelle del sito.
 
