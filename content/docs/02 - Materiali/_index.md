@@ -9,3 +9,9 @@
 - compasso
 - matita 2H e HB
 - cartelletta a tre lembi con elastico per portare il materiale in cartella
+
+## Materiali per lavori vari (in comune con altre materie)
+- forbici grandi
+- colla vinilica
+- nastro di carta stretto
+- cartone ondulato riciclato
