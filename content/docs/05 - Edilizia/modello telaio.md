@@ -1,4 +1,4 @@
-MODELLO DI UNA STRUTTURA A TELAIO
+# MODELLO DI UNA STRUTTURA A TELAIO
 
 ## Sintesi dell'attività
 - **Discussione** lo schema strutturale a telaio e le proprietà delle strutture antisismiche.
