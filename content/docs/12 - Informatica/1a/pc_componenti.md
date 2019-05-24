@@ -8,4 +8,4 @@
 
 ## Dettagli dell'attività
 
-![scatola pezzi](tecnologiadiclasse.netlify.com/docs/12-informatica/1a/pc_componenti/pc-componenti.png)
+![scatola pezzi](/tecnologiadiclasse.netlify.com/docs/12-informatica/1a/pc_componenti/pc-componenti.png)
