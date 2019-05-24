@@ -7,3 +7,5 @@
 - **Prodotto finale** //
 
 ## Dettagli dell'attività
+
+![scatola pezzi](/images/pc-componenti.jpg)
