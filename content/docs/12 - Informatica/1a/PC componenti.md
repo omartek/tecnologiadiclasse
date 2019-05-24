@@ -8,4 +8,4 @@
 
 ## Dettagli dell'attività
 
-![scatola pezzi](/images/pc-componenti.jpg)
+![scatola pezzi](./images/pc-componenti.jpg)
