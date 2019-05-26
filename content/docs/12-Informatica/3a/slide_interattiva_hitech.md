@@ -7,3 +7,4 @@
 - **Prodotto finale** file
 
 ## Dettagli dell'attività
+![slide raspberryPI](slide_raspberryPI.jpg)

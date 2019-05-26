@@ -7,3 +7,5 @@
 - **Prodotto finale** file
 
 ## Dettagli dell'attività
+
+![slide interattiva](slide_interattiva_edificio.jpg)
