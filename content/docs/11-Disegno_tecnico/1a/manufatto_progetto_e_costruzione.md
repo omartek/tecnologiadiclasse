@@ -11,15 +11,25 @@
 ---
 
 [![astuccio](astuccio01.jpg)](imageBig/astuccio01.jpg)
-![astuccio](astuccio02.jpg)
-![astuccio](astuccio03.jpg)
-![astuccio](astuccio04.jpg)
-![astuccio](astuccio05.jpg)
-![astuccio](astuccio06.jpg)
-![astuccio](astuccio07.jpg)
-![astuccio](astuccio08.jpg)
-![astuccio](astuccio09.jpg)
-![astuccio](astuccio10.jpg)
-![astuccio](astuccio11.jpg)
+
+[![astuccio](astuccio02.jpg)](imageBig/astuccio02.jpg)
+
+[![astuccio](astuccio03.jpg)](imageBig/astuccio03.jpg)
+
+[![astuccio](astuccio04.jpg)](imageBig/astuccio04.jpg)
+
+[![astuccio](astuccio05.jpg)](imageBig/astuccio05.jpg)
+
+[![astuccio](astuccio06.jpg)](imageBig/astuccio06.jpg)
+
+[![astuccio](astuccio07.jpg)](imageBig/astuccio07.jpg)
+
+[![astuccio](astuccio08.jpg)](imageBig/astuccio08.jpg)
+
+[![astuccio](astuccio09.jpg)](imageBig/astuccio09.jpg)
+
+[![astuccio](astuccio10.jpg)](imageBig/astuccio10.jpg)
+
+[![astuccio](astuccio11.jpg)](imageBig/astuccio11.jpg)
 
 ---
