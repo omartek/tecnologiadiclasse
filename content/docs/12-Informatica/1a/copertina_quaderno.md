@@ -21,6 +21,12 @@ Eseguire ricerche di immagini online.
 
 Stampare la copertina e inserirla nel quaderno insieme al prototipo eseguito a mano.
 
+---
+
 ![](copertina1.jpg)
+
 ![](copertina2.jpg)
+
 ![](copertina3.jpg)
+
+---

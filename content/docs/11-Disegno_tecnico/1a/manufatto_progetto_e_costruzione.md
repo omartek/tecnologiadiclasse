@@ -7,7 +7,10 @@
 - **Prodotto finale** astuccio fatto a mano in cartoncino, con utensili, con stampante 3D.
 
 ## Dettagli dell'attività
-![astuccio](astuccio01.jpg)
+
+---
+
+[![astuccio](astuccio01.jpg)](imageBig/astuccio01.jpg)
 ![astuccio](astuccio02.jpg)
 ![astuccio](astuccio03.jpg)
 ![astuccio](astuccio04.jpg)
@@ -18,3 +21,5 @@
 ![astuccio](astuccio09.jpg)
 ![astuccio](astuccio10.jpg)
 ![astuccio](astuccio11.jpg)
+
+---
