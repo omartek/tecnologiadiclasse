@@ -8,4 +8,12 @@
 
 ## Dettagli dell'attività
 
-![tavola Librecad](tavola_librecad.jpg)
+---
+
+[![tavola Librecad](tavola_librecad.jpg)](esercizio.pdf)
+
+[download esercizio.odt](esercizio.odt)
+
+[download esercizi_con_strumenti.dxf](esercizi_con_strumenti.dxf)
+
+---
