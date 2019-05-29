@@ -10,22 +10,22 @@
 
 ---
 
-[![sedia](scad01_sedia.jpg)](scad01_sedia.jpg)
+[![sedia](scad01_sedia.jpg)](imageBig/scad01_sedia.jpg)
 
-[![sedia](scad02_sedia.jpg)](scad02_sedia.jpg)
+[![sedia](scad02_sedia.jpg)](imageBig/scad02_sedia.jpg)
 
-[![sedia](scad03_sedia.jpg)](scad03_sedia.jpg)
+[![sedia](scad03_sedia.jpg)](imageBig/scad03_sedia.jpg)
 
-[![sedia](scad04_sedia.jpg)](scad04_sedia.jpg)
+[![sedia](scad04_sedia.jpg)](imageBig/scad04_sedia.jpg)
 
-[![sedia](scad05_sedia.jpg)](scad05_sedia.jpg)
+[![sedia](scad05_sedia.jpg)](imageBig/scad05_sedia.jpg)
 
-[![sedia](scad06_sedia.jpg)](scad06_sedia.jpg)
+[![sedia](scad06_sedia.jpg)](imageBig/scad06_sedia.jpg)
 
-[![sedia](scad07_sedia.jpg)](scad07_sedia.jpg)
+[![sedia](scad07_sedia.jpg)](imageBig/scad07_sedia.jpg)
 
-[![sedia](scad08_sedia.jpg)](scad08_sedia.jpg)
+[![sedia](scad08_sedia.jpg)](imageBig/scad08_sedia.jpg)
 
-[![sedia](scad09_sedia.jpg)](scad09_sedia.jpg)
+[![sedia](scad09_sedia.jpg)](imageBig/scad09_sedia.jpg)
 
 ---

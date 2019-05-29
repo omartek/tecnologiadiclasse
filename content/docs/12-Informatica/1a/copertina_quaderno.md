@@ -23,10 +23,10 @@ Stampare la copertina e inserirla nel quaderno insieme al prototipo eseguito a m
 
 ---
 
-[![](copertina1.jpg)](/imageBig/copertina1.jpg)
+[![](copertina1.jpg)](imageBig/copertina1.jpg)
 
-[![](copertina2.jpg)(/imageBig/copertina2.jpg)
+[![](copertina2.jpg)(imageBig/copertina2.jpg)
 
-[![](copertina3.jpg)(/imageBig/copertina3.jpg)
+[![](copertina3.jpg)(imageBig/copertina3.jpg)
 
 ---

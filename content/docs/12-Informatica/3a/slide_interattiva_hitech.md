@@ -10,7 +10,7 @@
 
 ---
 
-[![slide raspberryPI](slide_raspberryPI.jpg)](/imageBig/slide_raspberryPI.jpg)
+[![slide raspberryPI](slide_raspberryPI.jpg)](imageBig/slide_raspberryPI.jpg)
 
 [link alla presentazione](https://docs.google.com/presentation/d/1JifqdgcvKjmxYVodiN1ROM7lGHQ_TB1WwP_7CsstAc0/edit?usp=sharing)
 

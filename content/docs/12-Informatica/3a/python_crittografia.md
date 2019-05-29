@@ -7,3 +7,9 @@
 - **Prodotto finale** decrittografare un messaggio inviato via mail dall'insegnante
 
 ## Dettagli dell'attività
+
+---
+
+[![lavagna](cifrario_cesare.jpg)](imageBig/cifrario_cesare.jpg)
+
+---
