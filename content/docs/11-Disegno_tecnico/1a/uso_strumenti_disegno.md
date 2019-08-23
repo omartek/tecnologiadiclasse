@@ -17,3 +17,11 @@
 [download esercizi_con_strumenti.dxf](esercizi_con_strumenti.dxf)
 
 ---
+
+[![tavola Librecad 2](tavola_librecad_2.jpg)](esercizio_2.pdf)
+
+[download esercizio 2.odt](esercizio_2.odt)
+
+[download esercizi_con_strumenti 2.dxf](esercizi_con_strumenti_2.dxf)
+
+---
