@@ -8,7 +8,7 @@
 
 ## Dettagli dell'attività
 
-[PADLET introduzione attività](https://padlet.com/laprof/edilizia?fbclid=IwAR1cOt5HyFwakf_QeDwQtJe50ZwqoOkLYxP-STPdoOA-JNBijndbQeVjTgc) 
+[![PADLET presentazione attività](padlet_costruzioni-territorio.png)](https://padlet.com/laprof/edilizia?fbclid=IwAR1cOt5HyFwakf_QeDwQtJe50ZwqoOkLYxP-STPdoOA-JNBijndbQeVjTgc) **PADLET presentazione attività**
 
 ---
 
