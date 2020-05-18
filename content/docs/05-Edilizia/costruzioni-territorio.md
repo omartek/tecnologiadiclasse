@@ -8,6 +8,8 @@
 
 ## Dettagli dell'attività
 
+[PADLET introduzione attività](https://padlet.com/laprof/edilizia?fbclid=IwAR1cOt5HyFwakf_QeDwQtJe50ZwqoOkLYxP-STPdoOA-JNBijndbQeVjTgc) 
+
 ---
 
 ### Esempio n.1 di presentazione
