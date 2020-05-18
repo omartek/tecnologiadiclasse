@@ -10,10 +10,10 @@
 
 ---
 
-[![esempio modello 0](modello_camera0.jpg)](/imageBig/modello_camera0.jpg)
+[![esempio modello 0](modello_camera0.jpg)](imageBig/modello_camera0.jpg)
 
-[![esempio modello 2](modello_camera1.jpg)](/imageBig/modello_camera1.jpg)
+[![esempio modello 2](modello_camera1.jpg)](imageBig/modello_camera1.jpg)
 
-[![esempio modello 3](modello_camera2.jpg)](/imageBig/modello_camera2.jpg)
+[![esempio modello 3](modello_camera2.jpg)](imageBig/modello_camera2.jpg)
 
 ---
