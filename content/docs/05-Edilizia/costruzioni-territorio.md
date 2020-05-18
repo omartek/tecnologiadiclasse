@@ -10,8 +10,8 @@
 
 ---
 
-[![ponte1 slide1](/ponte1/ponte1-0.jpg)](ponte1/imageBig/ponte1-1.jpg)
-[![ponte1 slide2](/ponte1/ponte1-1.jpg)](ponte1/imageBig/ponte1-2.jpg)
-[![ponte1 slide3](/ponte1/ponte1-2.jpg)](ponte1/imageBig/ponte1-2.jpg)
-[![ponte1 slide4](/ponte1/ponte1-3.jpg)](ponte1/imageBig/ponte1-3.jpg)
-[![ponte1 slide5](/ponte1/ponte1-4.jpg)](ponte1/imageBig/ponte1-4.jpg)
+[![ponte1 slide1](ponte1/ponte1-0.jpg)](ponte1/imageBig/ponte1-1.jpg)
+[![ponte1 slide2](ponte1/ponte1-1.jpg)](ponte1/imageBig/ponte1-2.jpg)
+[![ponte1 slide3](ponte1/ponte1-2.jpg)](ponte1/imageBig/ponte1-2.jpg)
+[![ponte1 slide4](ponte1/ponte1-3.jpg)](ponte1/imageBig/ponte1-3.jpg)
+[![ponte1 slide5](ponte1/ponte1-4.jpg)](ponte1/imageBig/ponte1-4.jpg)
