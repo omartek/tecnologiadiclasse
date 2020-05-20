@@ -16,6 +16,7 @@
 
 ---
 
-[![guida iscrizione](story-0_thumb.jpg)](storymapjs.pdf) **file .pdf completo**
+**Clicca per scaricare il file pdf**
+[![guida iscrizione](story-0_thumb.jpg)](storymapjs.pdf)
 
-[![slide](montaggio.jpg  "Slide istruzioni iscrizione")](storymapjs.pdf)
+![slide](montaggio.jpg  "Slide istruzioni iscrizione")
